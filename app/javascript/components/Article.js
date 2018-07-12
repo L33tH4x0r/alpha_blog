@@ -47,4 +47,5 @@ Article.propTypes = {
   created_at: PropTypes.string,
   updated_at: PropTypes.string
 };
+
 export default Article
